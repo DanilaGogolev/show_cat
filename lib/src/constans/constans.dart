@@ -1,0 +1,1 @@
+const limitLoadingData = 100;
